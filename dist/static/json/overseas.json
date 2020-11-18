@@ -1,0 +1,362 @@
+{
+  "ltop": [
+    {
+      "year": 2013,
+      "enterprise": "中国电信",
+      "cnt": 37
+    },
+    {
+      "year": 2013,
+      "enterprise": "中国移动",
+      "cnt": 2
+    },
+    {
+      "year": 2013,
+      "enterprise": "中国联通",
+      "cnt": 15
+    },
+    {
+      "year": 2014,
+      "enterprise": "中国电信",
+      "cnt": 44
+    },
+    {
+      "year": 2014,
+      "enterprise": "中国移动",
+      "cnt": 9
+    },
+    {
+      "year": 2014,
+      "enterprise": "中国联通",
+      "cnt": 16
+    },
+    {
+      "year": 2015,
+      "enterprise": "中国电信",
+      "cnt": 49
+    },
+    {
+      "year": 2015,
+      "enterprise": "中国移动",
+      "cnt": 30
+    },
+    {
+      "year": 2015,
+      "enterprise": "中国联通",
+      "cnt": 23
+    },
+    {
+      "year": 2016,
+      "enterprise": "中国电信",
+      "cnt": 64
+    },
+    {
+      "year": 2016,
+      "enterprise": "中国移动",
+      "cnt": 32
+    },
+    {
+      "year": 2016,
+      "enterprise": "中国联通",
+      "cnt": 44
+    },
+    {
+      "year": 2017,
+      "enterprise": "中国电信",
+      "cnt": 64
+    },
+    {
+      "year": 2017,
+      "enterprise": "中国移动",
+      "cnt": 32
+    },
+    {
+      "year": 2017,
+      "enterprise": "中国联通",
+      "cnt": 45
+    }
+  ],
+  "lbottom": [
+    {
+      "year": 2013,
+      "direction": "非洲",
+      "cnt": 0
+    },
+    {
+      "year": 2013,
+      "direction": "欧洲",
+      "cnt": 10
+    },
+    {
+      "year": 2013,
+      "direction": "大洋洲",
+      "cnt": 2
+    },
+    {
+      "year": 2013,
+      "direction": "北美",
+      "cnt": 19
+    },
+    {
+      "year": 2013,
+      "direction": "东盟",
+      "cnt": 11
+    },
+    {
+      "year": 2014,
+      "direction": "非洲",
+      "cnt": 2
+    },
+    {
+      "year": 2014,
+      "direction": "欧洲",
+      "cnt": 20
+    },
+    {
+      "year": 2014,
+      "direction": "大洋洲",
+      "cnt": 2
+    },
+    {
+      "year": 2014,
+      "direction": "南美",
+      "cnt": 1
+    },
+    {
+      "year": 2014,
+      "direction": "其他",
+      "cnt": 19
+    },
+    {
+      "year": 2014,
+      "direction": "东盟",
+      "cnt": 6
+    },
+    {
+      "year": 2015,
+      "direction": "非洲",
+      "cnt": 1
+    },
+    {
+      "year": 2015,
+      "direction": "欧洲",
+      "cnt": 20
+    },
+    {
+      "year": 2015,
+      "direction": "大洋洲",
+      "cnt": 2
+    },
+    {
+      "year": 2015,
+      "direction": "南美",
+      "cnt": 1
+    },
+    {
+      "year": 2015,
+      "direction": "北美",
+      "cnt": 29
+    },
+    {
+      "year": 2015,
+      "direction": "其他",
+      "cnt": 33
+    },
+    {
+      "year": 2015,
+      "direction": "东盟",
+      "cnt": 16
+    },
+    {
+      "year": 2016,
+      "direction": "非洲",
+      "cnt": 4
+    },
+    {
+      "year": 2016,
+      "direction": "欧洲",
+      "cnt": 29
+    },
+    {
+      "year": 2016,
+      "direction": "大洋洲",
+      "cnt": 4
+    },
+    {
+      "year": 2016,
+      "direction": "南美",
+      "cnt": 1
+    },
+    {
+      "year": 2016,
+      "direction": "北美",
+      "cnt": 30
+    },
+    {
+      "year": 2016,
+      "direction": "其他",
+      "cnt": 45
+    },
+    {
+      "year": 2016,
+      "direction": "东盟",
+      "cnt": 27
+    },
+    {
+      "year": 2017,
+      "direction": "非洲",
+      "cnt": 4
+    },
+    {
+      "year": 2017,
+      "direction": "欧洲",
+      "cnt": 29
+    },
+    {
+      "year": 2017,
+      "direction": "大洋洲",
+      "cnt": 4
+    },
+    {
+      "year": 2017,
+      "direction": "南美",
+      "cnt": 1
+    },
+    {
+      "year": 2017,
+      "direction": "北美",
+      "cnt": 31
+    },
+    {
+      "year": 2017,
+      "direction": "其他",
+      "cnt": 45
+    },
+    {
+      "year": 2017,
+      "direction": "东盟",
+      "cnt": 27
+    }
+  ],
+  "cbottom1": [
+    {
+      "year": 2013,
+      "enterprise": "总量",
+      "cnt": 37
+    },
+    {
+      "year": 2013,
+      "enterprise": "一带一路",
+      "cnt": 2
+    },
+    {
+      "year": 2014,
+      "enterprise": "一带一路",
+      "cnt": 44
+    },
+    {
+      "year": 2014,
+      "enterprise": "总量",
+      "cnt": 9
+    },
+    {
+      "year": 2015,
+      "enterprise": "总量",
+      "cnt": 49
+    },
+    {
+      "year": 2015,
+      "enterprise": "一带一路",
+      "cnt": 30
+    },
+    {
+      "year": 2016,
+      "enterprise": "一带一路",
+      "cnt": 23
+    },
+    {
+      "year": 2016,
+      "enterprise": "总量",
+      "cnt": 23
+    }
+  ],
+  "cbottom2": [
+    {
+      "year": 2013,
+      "enterprise": "IDC",
+      "cnt": 37
+    },
+    {
+      "year": 2013,
+      "enterprise": "CDN",
+      "cnt": 289
+    },
+    {
+      "year": 2014,
+      "enterprise": "IDC",
+      "cnt": 414
+    },
+    {
+      "year": 2014,
+      "enterprise": "CDN",
+      "cnt": 99
+    },
+    {
+      "year": 2015,
+      "enterprise": "IDC",
+      "cnt": 129
+    },
+    {
+      "year": 2015,
+      "enterprise": "CDN",
+      "cnt": 60
+    },
+    {
+      "year": 2016,
+      "enterprise": "IDC",
+      "cnt": 123
+    },
+    {
+      "year": 2016,
+      "enterprise": "CDN",
+      "cnt": 23
+    }
+  ],
+  "rtop": [
+    {
+      "year": 2018,
+      "direction": "大洋洲",
+      "cnt": 2
+    },
+    {
+      "year": 2018,
+      "direction": "东盟",
+      "cnt": 6
+    },
+    {
+      "year": 2018,
+      "direction": "欧洲",
+      "cnt": 29
+    },
+    {
+      "year": 2018,
+      "direction": "非洲",
+      "cnt": 4
+    },
+    {
+      "year": 2018,
+      "direction": "南美",
+      "cnt": 1
+    },
+    {
+      "year": 2018,
+      "direction": "北美",
+      "cnt": 31
+    },
+    {
+      "year": 2018,
+      "direction": "其他",
+      "cnt": 4
+    }
+  ]
+}
